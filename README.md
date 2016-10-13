@@ -1,4 +1,4 @@
 # KOF
 A simple KOF written in C using SDL.
 
-![Screenshot](http://i.imgur.com/SH7wcas.png)
+![Screenshot](https://github.com/Sarlor/kof/blob/master/Image/Samples/kof_01.png)
