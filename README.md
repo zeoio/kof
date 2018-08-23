@@ -1,5 +1,5 @@
 ### The King of Fighters
-A simple KOF written in C using SDL.
+This is a simple version of king of fighters game by written in C using SDL.
 
 ![Hero selection](https://github.com/Sarlor/kof/blob/master/Image/Samples/kof_02.png)
 
@@ -13,9 +13,12 @@ sudo apt install libsdl-ttf2.0-dev
 sudo apt install libsdl-mixer1.2-dev
 ```
 #### Build source
+Open a terminal and run the commands:
 ```bash
 git clone https://github.com/Sarlor/kof.git
+```
 
-cd kof/Src
+Build and run:
+```bash
 make && ./kof
 ```
