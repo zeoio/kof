@@ -18,6 +18,5 @@ sudo apt install libsdl-mixer1.2-dev
 git clone https://github.com/Sarlor/kof.git
 
 cd kof/Src
-make
-./kof
+make && ./kof
 ```
