@@ -1,11 +1,10 @@
-## KOF
+### KOF
 A simple KOF written in C using SDL.
 
 ![Hero selection](https://github.com/Sarlor/kof/blob/master/Image/Samples/kof_02.png)
 
 ![Run game](https://github.com/Sarlor/kof/blob/master/Image/Samples/kof_01.png)
 
-### Building the source
 #### Install SDL libraries
 ```bash
 sudo apt install libsdl1.2-dev
