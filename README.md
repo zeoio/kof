@@ -1,4 +1,4 @@
-### KOF
+### The King of Fighters
 A simple KOF written in C using SDL.
 
 ![Hero selection](https://github.com/Sarlor/kof/blob/master/Image/Samples/kof_02.png)
