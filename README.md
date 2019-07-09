@@ -15,7 +15,7 @@ sudo apt install libsdl-mixer1.2-dev
 #### Build source
 Open a terminal and run the commands:
 ```bash
-git clone https://github.com/Sarlor/kof.git
+git clone https://github.com/zeoio/kof.git
 ```
 
 Build and run:
